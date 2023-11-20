@@ -144,7 +144,7 @@ INFO Deleted pod security policy.                  podSecurityPolicy=tridentpods
 INFO The uninstaller did not delete Trident's namespace in case it is going to be reused.
 INFO Trident uninstallation succeeded.
 ----
-. Una vez finalizado este proceso, obtenga el binario de Trident correspondiente a la versión deseada (en este ejemplo, 20.07) y utilícelo para instalar Astra Trident. Puede generar YAML personalizados para un link:../trident-deploy-k8s/kubernetes-customize-deploy-tridentctl.html["instalación personalizada"^] si es necesario.
+. Una vez finalizado este proceso, obtenga el binario de Trident correspondiente a la versión deseada (en este ejemplo, 20.07) y utilícelo para instalar Astra Trident. Puede generar YAML personalizados para un link:../trident-get-started/kubernetes-customize-deploy-tridentctl.html["instalación personalizada"^] si es necesario.
 +
 [listing]
 ----
